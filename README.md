@@ -2,4 +2,8 @@
 ## Circuito com led piscante
 ![](./Img/Captura%20de%20tela%202026-02-20%20165400.png)
 ## Video do circurto em funcionamento com o led
-![](./Video/Refatorando%20-%20Led%20Piscante%20(26%20de%20fev.%20de%202026%20às%2015_39).mp4)
+![](
+
+https://github.com/user-attachments/assets/2d89aab9-3765-4ea1-be11-ffa12df5c11b
+
+)
